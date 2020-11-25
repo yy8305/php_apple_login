@@ -32,3 +32,9 @@
     - https://qiita.com/clom/items/17b84ea502adc4815a53
 
     - https://www.codebee.co.th/labs/วิธีทำ-apple-login-เข้าสู่ระบบด้ว/amp/
+
+    - https://darkstart.tistory.com/116?category=871909
+
+    - https://fluffy.es/how-to-solve-invalid_client-error-in-sign-in-with-apple/
+
+    - https://whitepaek.tistory.com/61
